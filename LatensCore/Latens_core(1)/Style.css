@@ -1,0 +1,19 @@
+
+#parent {
+    float: right;
+    position: relative;
+    left: -50%;
+}
+#a {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+#game{
+    float: left;
+    position: relative;
+}
+#game2{
+    float: right;
+    position: relative;
+}
