@@ -1,7 +1,7 @@
 # DigitalContents - Galaxy Wars
 * #### 장르 : RTS 
 * #### 역할 : 프로그래머(인게임 구현)
-* #### 개발 언어/툴 : C# / Unity3d
+* #### 개발 언어/툴 : Javascript, Node.js
 
 ## 프로젝트 소개
 ### 게임 소개
