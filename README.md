@@ -10,13 +10,17 @@
 > * 은하와 우주선의 업그레이드, 유닛생산, 특수 스킬
 > ### 메인 시스템
 > ### 게임 화면
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102123-ac62c300-5f65-11e9-8b03-c39e0627c82c.png></img>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102124-ac62c300-5f65-11e9-9092-71d75f2cc710.png></img>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102126-ac62c300-5f65-11e9-8453-fbba268944b2.png></img>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102127-acfb5980-5f65-11e9-8a2f-9b69bdf404fa.png></img>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102128-acfb5980-5f65-11e9-80a5-80e0741cb61b.png></img>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102129-acfb5980-5f65-11e9-9950-dce412a4f022.png></img>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102122-ac62c300-5f65-11e9-8ef3-993cf56965fe.png></img>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102122-ac62c300-5f65-11e9-8ef3-993cf56965fe.png></img>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56107512-b2ff3380-5f81-11e9-8691-9f34a856dca5.png></img>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56107513-b397ca00-5f81-11e9-9f59-36d0a04b1f3f.png></img>
+> * 게임의 메인화면입니다. 인게임내 닉네임을 입력할 수 있습니다.
+> <img width="70%" src=https://user-images.githubusercontent.com/40797534/56102123-ac62c300-5f65-11e9-8b03-c39e0627c82c.png></img>
+> * 시작 버튼을 누르면 방이 생성될동안 로딩화면으로 변경됩니다.
+> <img width="70%" src=https://user-images.githubusercontent.com/40797534/56102124-ac62c300-5f65-11e9-9092-71d75f2cc710.png></img>
+
+> * 인게임 화면 중 하나입니다. 엔터키를 눌러 채팅을 입력할 수 있습니다.
+> <img width="70%" src=https://user-images.githubusercontent.com/40797534/56107512-b2ff3380-5f81-11e9-8691-9f34a856dca5.png></img>
+> <img width="70%" src=https://user-images.githubusercontent.com/40797534/56107513-b397ca00-5f81-11e9-9f59-36d0a04b1f3f.png></img>
+> * 파란색 우주선은 자신의 우주선이며, 중앙 하단에서 여러가지 능력치를 업그레이드 할 수 있으며, 기뢰 또한 구매할 수 있습니다.
+> <img width="70%" src=https://user-images.githubusercontent.com/40797534/56102126-ac62c300-5f65-11e9-8453-fbba268944b2.png></img>
+> * 적 유닛 파괴시 이펙트입니다.
+> <img width="70%" src=https://user-images.githubusercontent.com/40797534/56102127-acfb5980-5f65-11e9-8a2f-9b69bdf404fa.png></img>
+> * 왼쪽 상단에 존재하는 카본이 모두 소모되어 버릴 경우 파산을 하게되며, 관전상태로 변경됩니다.
+> <img width="70%" src=https://user-images.githubusercontent.com/40797534/56102128-acfb5980-5f65-11e9-80a5-80e0741cb61b.png></img>
