@@ -62,7 +62,3 @@
 > <img width="46%" src=https://user-images.githubusercontent.com/40797534/56132076-0b572500-5fc4-11e9-913b-0a6198d92265.png></img>
 > <br></br>2위<br></br>
 > <img width="46%" src=https://user-images.githubusercontent.com/40797534/56132644-7bb27600-5fc5-11e9-8bad-b354f8fcc241.png></img>
-> <br></br>3위<br></br>
-> <img width="46%" src=https://user-images.githubusercontent.com/40797534/56132645-7c4b0c80-5fc5-11e9-98f5-360004f86e2d.png></img>
-> <br></br>4위<br></br>
-> <img width="46%" src=https://user-images.githubusercontent.com/40797534/56132648-7ce3a300-5fc5-11e9-9130-036a5740c492.png></img>
