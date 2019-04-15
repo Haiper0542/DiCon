@@ -15,6 +15,8 @@
 ![GalaxyWars05](https://user-images.githubusercontent.com/40797534/56102128-acfb5980-5f65-11e9-80a5-80e0741cb61b.png)
 ![GalaxyWars06](https://user-images.githubusercontent.com/40797534/56102129-acfb5980-5f65-11e9-9950-dce412a4f022.png)
 ![GalaxyWars07](https://user-images.githubusercontent.com/40797534/56102122-ac62c300-5f65-11e9-8ef3-993cf56965fe.png)
+![채팅입력1](https://user-images.githubusercontent.com/40797534/56107512-b2ff3380-5f81-11e9-8691-9f34a856dca5.png)
+![채팅입력2](https://user-images.githubusercontent.com/40797534/56107513-b397ca00-5f81-11e9-9f59-36d0a04b1f3f.png)
 
 ## 프로젝트 시연
 [Youtube - 시연 영상](https://www.youtube.com/)
